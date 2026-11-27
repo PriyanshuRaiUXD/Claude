@@ -1,0 +1,6 @@
+.godot/
+*.apk
+*.aab
+*.idsig
+android/build/
+export_presets.cfg.bak
